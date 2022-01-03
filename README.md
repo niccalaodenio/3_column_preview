@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg) coming soon kahubya mag ss
+(images/screenshot.png) 
 
 
 ## My process
@@ -43,9 +43,6 @@ in this challenge i learn how to nest different element and this the first chall
 
 ### Continued development
   layout
-###Screenshot
-
-![](images/screenshot.png)
 
 ### Useful resources
 
