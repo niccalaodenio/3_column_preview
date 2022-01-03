@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-[images/screenshot.png]
+![ss](./images/screenshot.png)
 
 
 ## My process
